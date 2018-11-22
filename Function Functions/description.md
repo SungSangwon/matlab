@@ -1,7 +1,6 @@
 # Function Functions 와 Anonymus functions를 이용하여 Euler's method 구현!
 
 
-* * *
 ### Function Functions란?
 
 -Function Functions are functions that operate on other functions which are passed to it as input arguements.
