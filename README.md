@@ -4,7 +4,7 @@
 + ### 각 함수들에 대한 정의와 M-file, 그리고 문제에 적용한 사례를 정리하였습니다.
 
 * * * 
-### 참고교재
++ ### 참고교재
 
 
 ![default](https://user-images.githubusercontent.com/44973398/48881252-a30e7800-ee57-11e8-9121-26b223353294.PNG)
