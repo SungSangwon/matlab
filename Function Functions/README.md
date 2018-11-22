@@ -1,4 +1,4 @@
-# Function Functions 와 Anonymus functions를 이용하여 Euler's method 구현!
+# Function Functions 와 Anonymus functions를 이용하여 문제풀이 및 Euler's method 구현!
 
 
 ### Function Functions란?
@@ -21,4 +21,9 @@ The input argument may be the handle of an anonymous function, the name of a bui
 
 * * *
 
++ ### 모든 문제는 교재 applied numerical methods with matlab for engineers and scientists 3rd edition 의 Problem 문제입니다.
+
+-Prob.2_5  결과
+-Prob.2_13 결과
+-Prob.2_19 결과
 
