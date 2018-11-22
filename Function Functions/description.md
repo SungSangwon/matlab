@@ -19,3 +19,6 @@ The input argument may be the handle of an anonymous function, the name of a bui
 -The Euler method is a first-order method, which means that the local error (error per step) is proportional to the square of the step size, and the global error (error at a given time) is proportional to the step size. The Euler method often serves as the basis to construct more complex methods.
 
 출처 : wikipedia
+
+* * *
+
