@@ -21,7 +21,7 @@ The input argument may be the handle of an anonymous function, the name of a bui
 + ## Function Functions 에 쓰인 기본적인 matlab 함수들
 
 함수명 | 의미 |자세한설명 링크
----|:---:|---:
+---|:---:|---:|
 `Plot(X,Y)` | plot(X,Y)는 X의 대응값에 대한 Y 데이터의 2차원 선 플롯을 생성합니다. | https://kr.mathworks.com/help/matlab/ref/plot.html
 `legned` | 좌표축에 범례 추가 | https://kr.mathworks.com/help/matlab/ref/legend.html?searchHighlight=legend&s_tid=doc_srchtitle
 `hold` | 새 플롯 추가 시 현재 플롯 유지 | https://kr.mathworks.com/help/matlab/ref/hold.html?searchHighlight=hold%20on&s_tid=doc_srchtitle
