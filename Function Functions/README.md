@@ -26,6 +26,7 @@ The input argument may be the handle of an anonymous function, the name of a bui
 `legned` | 좌표축에 범례 추가 | https://kr.mathworks.com/help/matlab/ref/legend.html?searchHighlight=legend&s_tid=doc_srchtitle
 `hold` | 새 플롯 추가 시 현재 플롯 유지 | https://kr.mathworks.com/help/matlab/ref/hold.html?searchHighlight=hold%20on&s_tid=doc_srchtitle
 `xlable` | x축에 레이블 지정 | https://kr.mathworks.com/help/matlab/ref/xlabel.html
+`varargin` | 가변 길이 입력 인수 목록 | https://kr.mathworks.com/help/matlab/ref/varargin.html
 
 * * *
 + ### 결과화면
