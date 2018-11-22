@@ -9,7 +9,10 @@
         function of one valuable within a fixed interval.
         >>[xmin, fval] = fminbnd(f, x1, x2)
         --> 최솟값이 x1,x2 사이에 있다는 가정.
-    
+
+![default](https://user-images.githubusercontent.com/44973398/48908476-adf3f780-eead-11e8-9777-e41410dc2e83.PNG)
+
+
 * ### fminsearch
     
         -A built-in function, fminsearch, finds the minimum of
