@@ -12,6 +12,9 @@
     at evenly spaced intervals and finds brackets by identifying function
     sign changes between neighboring points.
 
-![incremental](https://user-images.githubusercontent.com/44973398/48905933-353d6d00-eea6-11e8-96e9-fd1bd090f500.PNG)
+
 ![incremental](https://user-images.githubusercontent.com/44973398/48905932-353d6d00-eea6-11e8-8231-63917b283b77.PNG)
+![incremental](https://user-images.githubusercontent.com/44973398/48905933-353d6d00-eea6-11e8-96e9-fd1bd090f500.PNG)
+
+    -Incremental 결과 Figure 과 command창 
 
