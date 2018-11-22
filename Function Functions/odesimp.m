@@ -6,4 +6,4 @@ while(1)
     t=t+h;
     if t>=tf, break, end
 end
-yend=y;
+yend=y; 
