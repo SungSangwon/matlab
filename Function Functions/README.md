@@ -43,4 +43,5 @@ The input argument may be the handle of an anonymous function, the name of a bui
 
 
 ![euler method](https://user-images.githubusercontent.com/44973398/48885680-83ce1580-ee6c-11e8-8a23-bff6b6d5f6ec.jpg){: width="100" height="100"}
+
 ![odesimp](https://user-images.githubusercontent.com/44973398/48885131-7dd73500-ee6a-11e8-9ec4-9b3700192d61.PNG)
