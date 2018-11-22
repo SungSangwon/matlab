@@ -21,7 +21,7 @@ The input argument may be the handle of an anonymous function, the name of a bui
 * * *
 + ### 결과화면
 
-+ ### 모든 Problem들은 교재 'applied numerical methods with matlab for engineers and scientists 3rd edition' 의 Problem 문제입니다.
++ 모든 Problem들은 교재 'applied numerical methods with matlab for engineers and scientists 3rd edition' 의 Problem 문제입니다.
 
 
 + Prob.2_5  결과
