@@ -23,9 +23,9 @@ The input argument may be the handle of an anonymous function, the name of a bui
 함수명 | 의미 | 자세한설명 링크
 ---|:---:|---:
 `Plot(X,Y)` | plot(X,Y)는 X의 대응값에 대한 Y 데이터의 2차원 선 플롯을 생성합니다. | https://kr.mathworks.com/help/matlab/ref/plot.html
-`relative` | 요소 **자신**을 기준으로 배치 |
-`absolute` | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
-`fixed` | **브라우저 창**을 기준으로 배치 |
+`legned` | 좌표축에 범례 추가 | https://kr.mathworks.com/help/matlab/ref/legend.html?searchHighlight=legend&s_tid=doc_srchtitle
+`hold` | 새 플롯 추가 시 현재 플롯 유지 | https://kr.mathworks.com/help/matlab/ref/hold.html?searchHighlight=hold%20on&s_tid=doc_srchtitle
+`xlable` | x축에 레이블 지정 | https://kr.mathworks.com/help/matlab/ref/xlabel.html
 
 
 X와 Y가 모두 벡터이면 이 둘은 길이가 같아야 합니다. plot 함수는 X에 대한 Y의 플롯을 그립니다.
