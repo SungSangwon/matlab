@@ -21,11 +21,15 @@ The input argument may be the handle of an anonymous function, the name of a bui
 * * *
 + ## Function Functions 에 쓰인 기본적인 matlab 함수들
 
-[plot(X,Y)]: https://user-images.githubusercontent.com/44973398/48885079-53857780-ee6a-11e8-8946-1fcc8f4994c0.png
-
 + ### plot(X,Y)
+함수명 | 의미 | 기본값
+---|:---:|---:
+`Plot(X,Y)` | plot(X,Y)는 X의 대응값에 대한 Y 데이터의 2차원 선 플롯을 생성합니다. | `static`
+`relative` | 요소 **자신**을 기준으로 배치 |
+`absolute` | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
+`fixed` | **브라우저 창**을 기준으로 배치 |
 
-plot(X,Y)는 X의 대응값에 대한 Y 데이터의 2차원 선 플롯을 생성합니다.
+
 X와 Y가 모두 벡터이면 이 둘은 길이가 같아야 합니다. plot 함수는 X에 대한 Y의 플롯을 그립니다.
 X와 Y가 모두 행렬이면 이 둘은 크기가 같아야 합니다. plot 함수는 X의 열에 대한 Y의 열을 플로팅합니다.
 
