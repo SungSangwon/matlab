@@ -8,4 +8,4 @@ plot(v,Ff,'k-.')
 hold on
 plot(x,F,'mo') 
 xlabel('v');
-ylabel('F');
+ylabel('F'); 
