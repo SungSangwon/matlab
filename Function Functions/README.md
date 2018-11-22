@@ -1,11 +1,11 @@
 # Function Functions 와 Anonymus functions를 이용하여 문제풀이 및 Euler's method 구현!
 
-[plot(X,Y)]
+[이동]
 ### Function Functions란?
 
 -Function Functions are functions that operate on other functions which are passed to it as input arguements.
 The input argument may be the handle of an anonymous function, the name of a built-in function. or the name of a M-file function.
-[plot(X,Y)]
+
 
 ### Anonymous functions란?
 
@@ -21,6 +21,7 @@ The input argument may be the handle of an anonymous function, the name of a bui
 * * *
 + ## Function Functions 에 쓰인 기본적인 matlab 함수들
 
+[이동]: ㅁ
 + ### plot(X,Y)
 함수명 | 의미 | 기본값
 ---|:---:|---:
