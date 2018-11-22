@@ -22,6 +22,8 @@ The input argument may be the handle of an anonymous function, the name of a bui
 * * *
 + ## Function Functions 에 쓰인 기본적인 matlab 함수들
 
+[plot(X,Y)]: https://user-images.githubusercontent.com/44973398/48885079-53857780-ee6a-11e8-8946-1fcc8f4994c0.png
+
 + ### plot(X,Y)
 
 plot(X,Y)는 X의 대응값에 대한 Y 데이터의 2차원 선 플롯을 생성합니다.
