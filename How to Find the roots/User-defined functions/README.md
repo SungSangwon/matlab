@@ -22,7 +22,17 @@
     -The bisection method is a variation of
     the incremental search method in which the interval is
     always divided in half.
-    
+ 변수명 | 의미 |
+ ---|:---:
+`func` |  name of function
+`xl, xu` | lower and upper guesses
+`es` | desired relative error (default = 0.0001%)
+`maxit` | maximum allowable iterations (default = 50) 
+`pl,p2,...` | additional parameters used by func
+`root` | real root
+`fx` | function value at root
+`ea` | approximate relative error (%)
+`iter` | number of iterations
     
 ### * Golden-Section
     -The golden-section search is a technique for finding the extremum (minimum or maximum)
