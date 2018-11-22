@@ -6,3 +6,8 @@
 > * Inceremental Search
 > * Bisection
 > * Golden-Section
+
+### * Incremental Search
+    -The incremental search method tests the value of the function
+    at evenly spaced intervals and finds brackets by identifying function
+    sign changes between neighboring points.
