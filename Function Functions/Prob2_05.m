@@ -11,3 +11,4 @@ hold on
 plot(x,z,'-sb','MarkerFaceColor','g')
 xlabel('x'); ylabel('y, z'); legend('y','z')
 
+ 
