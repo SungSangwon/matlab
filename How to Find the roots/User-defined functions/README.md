@@ -38,4 +38,4 @@
     example)
     root(2)를 찾는 command창
     >> f=@(x) x.^2-2;
-    >> bisect(f,1,2,0.5*10^-10)
+    >> bisect(f,1,2,0.5*10^-10) 
