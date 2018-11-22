@@ -1,5 +1,6 @@
 # Function Functions 와 Anonymus functions를 이용하여 문제풀이 및 Euler's method 구현!
 
+[plot(X,Y)]: https://user-images.githubusercontent.com/44973398/48885079-53857780-ee6a-11e8-8946-1fcc8f4994c0.png
 
 ### Function Functions란?
 
@@ -24,9 +25,7 @@ The input argument may be the handle of an anonymous function, the name of a bui
 + ### plot(X,Y)
 
 plot(X,Y)는 X의 대응값에 대한 Y 데이터의 2차원 선 플롯을 생성합니다.
-
 X와 Y가 모두 벡터이면 이 둘은 길이가 같아야 합니다. plot 함수는 X에 대한 Y의 플롯을 그립니다.
-
 X와 Y가 모두 행렬이면 이 둘은 크기가 같아야 합니다. plot 함수는 X의 열에 대한 Y의 열을 플로팅합니다.
 
 X와 Y 중 하나가 벡터이고 다른 하나가 행렬인 경우, 이 행렬의 차원 중 하나는 벡터 길이와 같아야 합니다. 행렬 행 개수가 벡터 길이와 같은 경우 plot 함수는 벡터에 대한 각 행렬 열을 플로팅합니다. 행렬 열 개수가 벡터 길이와 같은 경우 이 함수는 벡터에 대한 각 행렬 행을 플로팅합니다. 행렬이 정사각 행렬인 경우 이 함수는 벡터에 대한 각 열을 플로팅합니다.
