@@ -25,14 +25,22 @@ The input argument may be the handle of an anonymous function, the name of a bui
 + ### 모든 Problem들은 교재 'applied numerical methods with matlab for engineers and scientists 3rd edition' 의 Problem 문제입니다.
 
 + Eulermethod를 FunctionFucntions로 구현한 결과
+
+
 ![odesimp](https://user-images.githubusercontent.com/44973398/48885131-7dd73500-ee6a-11e8-9ec4-9b3700192d61.PNG)
 
 + Prob.2_5  결과
+
+
 ![prob2_5](https://user-images.githubusercontent.com/44973398/48885079-53857780-ee6a-11e8-8946-1fcc8f4994c0.png)
 
 + Prob.2_13 결과
+
+
 ![prob2_13](https://user-images.githubusercontent.com/44973398/48885089-5a13ef00-ee6a-11e8-818f-aba84528d11c.png)
 
 + Prob.2_19 결과
+
+
 ![prob2_19](https://user-images.githubusercontent.com/44973398/48885095-5f713980-ee6a-11e8-9418-889541648263.png)
 
