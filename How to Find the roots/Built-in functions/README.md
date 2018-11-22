@@ -14,7 +14,8 @@
 
 ![default](https://user-images.githubusercontent.com/44973398/48908476-adf3f780-eead-11e8-9777-e41410dc2e83.PNG)
 
-        fminbnd 가 golden-section search 와 parabolic interpolation을 포함하고 있다는 것을 확인할 수 있다.
+        -fminbnd 가 golden-section search 와 parabolic interpolation을 포함하고 있다는 것을 확인할 수 있다.
+        
 * ### fminsearch
     
         -A built-in function, fminsearch, finds the minimum of
@@ -23,3 +24,8 @@
         nonlinear optimization.
         >>[xmin, fval] = fminsearch(f,x0)
         --> x0 근방에서 최솟값이 있을거라고 가정한것이다.
+
+* ### fminsearch 결과창
+
+![2](https://user-images.githubusercontent.com/44973398/48908723-6fab0800-eeae-11e8-89b1-7a25bfb9b9c2.PNG)
+
