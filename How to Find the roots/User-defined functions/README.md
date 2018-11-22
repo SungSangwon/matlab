@@ -18,3 +18,5 @@
 
     -Incremental 결과 Figure 과 command창 
 
+### * Bisection
+### * Golden-Section
