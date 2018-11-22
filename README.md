@@ -5,7 +5,7 @@
 + ### 함수에대한 상세한 설명은 각 폴더안의 README에 서술해 놓았습니다.
 
 * * * 
-+ ### 참고교재
++ ### 사용교재
 
 
 ![default](https://user-images.githubusercontent.com/44973398/48881252-a30e7800-ee57-11e8-9121-26b223353294.PNG)
