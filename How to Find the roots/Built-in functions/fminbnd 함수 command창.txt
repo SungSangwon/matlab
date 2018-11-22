@@ -1,0 +1,3 @@
+>> f = @(x) x.^3-2*x-5;
+>> opts = optimset('Display', 'iter');
+>> [x,y] = fminbnd(f,0,2,opts)
