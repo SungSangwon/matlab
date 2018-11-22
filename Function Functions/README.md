@@ -2,8 +2,8 @@
 
 ### Function Functions란?
 
--Function Functions are functions that operate on other functions which are passed to it as input arguements.
-The input argument may be the handle of an anonymous function, the name of a built-in function. or the name of a M-file function.
+ -Function Functions are functions that operate on other functions which are passed to it as input arguements.
+ The input argument may be the handle of an anonymous function, the name of a built-in function. or the name of a M-file         function.
 
 
 ### Anonymous functions란?
