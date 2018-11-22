@@ -10,4 +10,4 @@ y4=tan(angles(1,4))*x-g/(2*v0^2*cos(angles(1,4))^2)*x.^2+y0;
 y5=tan(angles(1,5))*x-g/(2*v0^2*cos(angles(1,5))^2)*x.^2+y0;
 y=[y1' y2' y3' y4' y5'] ;
 plot(x,y);axis([0 80 0 40])
-legend('\theta_1 = ¥ð/12','\theta_2 = ¥ð/8','\theta_3 = ¥ð/4','\theta_4 = ¥ð/3','\theta_5 = ¥ð5/12')
+legend('\theta_1 = Â¥Ã°/12','\theta_2 = Â¥Ã°/8','\theta_3 = Â¥Ã°/4','\theta_4 = Â¥Ã°/3','\theta_5 = Â¥Ã°5/12') 
