@@ -1,12 +1,11 @@
 # Function Functions 와 Anonymus functions를 이용하여 문제풀이 및 Euler's method 구현!
 
-[plot(X,Y)]: https://user-images.githubusercontent.com/44973398/48885079-53857780-ee6a-11e8-8946-1fcc8f4994c0.png
-
+[plot(X,Y)]
 ### Function Functions란?
 
 -Function Functions are functions that operate on other functions which are passed to it as input arguements.
 The input argument may be the handle of an anonymous function, the name of a built-in function. or the name of a M-file function.
-
+[plot(X,Y)]
 
 ### Anonymous functions란?
 
