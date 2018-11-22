@@ -39,11 +39,3 @@
     root(2)를 찾는 command창
     >> f=@(x) x.^2-2;
     >> bisect(f,1,2,0.5*10^-10)
-### * Golden-Section
-    -The golden-section search is a technique for finding the extremum (minimum or maximum)
-    of a strictly unimodal function by successively narrowing 
-    the range of values inside which the extremum is known to exist. 
-    The technique derives its name from the fact that the algorithm maintains the function values
-    for triples of points whose distances form a golden ratio.
-    출처: Wikipedia
- 
