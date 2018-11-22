@@ -19,4 +19,15 @@
     -Incremental 결과 Figure 과 command창 
 
 ### * Bisection
+    -The bisection method is a variation of
+    the incremental search method in which the interval is
+    always divided in half.
+    
+    
 ### * Golden-Section
+    -The golden-section search is a technique for finding the extremum (minimum or maximum)
+    of a strictly unimodal function by successively narrowing 
+    the range of values inside which the extremum is known to exist. 
+    The technique derives its name from the fact that the algorithm maintains the function values
+    for triples of points whose distances form a golden ratio.
+
